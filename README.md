@@ -1,5 +1,3 @@
-# Create a Pokedex able to do a search by fetching an API to learn more about MobX, with a basic backend
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
